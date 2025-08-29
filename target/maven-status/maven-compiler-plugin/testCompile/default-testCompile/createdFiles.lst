@@ -1,0 +1,3 @@
+org/framwork/hooks/Hooks.class
+org/framwork/runners/TestRunner.class
+org/framwork/stepDefinations/LoginSteps.class
